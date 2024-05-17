@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+:root { --cor-de-fundo: #80242D; 
+    --verde: #6FFF57; 
+    --branco: #FFFFFF; 
+    --botao-ativo: #BE1B1B; 
+    --botao-inativo: rgba(212, 5, 5, 0.5); 
+    --texto-fundo: rgba(58, 55, 94, 0.3); }
+    body {
+        background-color: var(--cor-de-fundo);
+        color: var(--branco); font-family: "Open+Sans", sans-serif;
+        }
